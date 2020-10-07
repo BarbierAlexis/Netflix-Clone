@@ -1,4 +1,4 @@
-## Todo-List-React-Native
+## Netflix Clone
 
 <p align="center">
     Project under construction soon available !
