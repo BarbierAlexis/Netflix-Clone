@@ -1,4 +1,4 @@
-import API_KEY from './components/conf';
+import API_KEY from "./conf";
 
 const requests = {
   fetchTrending: `/trending/all/week?api_key=${API_KEY}&language=en-US`,
